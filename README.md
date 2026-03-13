@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! I'm Johnnelsan 👋
 
-<!--
-**bucket727/bucket727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you! Welcome to my GitHub :)
 
-Here are some ideas to get you started:
+🔭 I’m currently a community college student at **Cerritos College** working toward my **B.S. in Computer Science & Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I was most recently a participant in the **NASA Community College Aerospace Scholars (NCAS)** program, where **my team won the final challenge**.
+
+🌱 I enjoy building software projects, experimenting with hardware, and exploring **AI, systems, and web technologies**.
+
+📫 Reach me at: **johnnelsanhartono@gmail.com**
+
+---
+
+✨ **Connect with me**
+
+LinkedIn: [https://www.linkedin.com/johnnelsanhartono](https://www.linkedin.com/in/johnnelsan-hartono-792846361/)
