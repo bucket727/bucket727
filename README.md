@@ -1,4 +1,4 @@
-# Hi there! I'm Johnnelsan 👋
+# Salutations! I'm Johnnelsan 👋
 
 Nice to meet you! Welcome to my GitHub :)
 
