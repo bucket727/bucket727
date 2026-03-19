@@ -12,6 +12,4 @@ Nice to meet you! Welcome to my GitHub :)
 
 ---
 
-✨ **Connect with me**
 
-LinkedIn: [https://www.linkedin.com/johnnelsanhartono](https://www.linkedin.com/in/johnnelsan-hartono-792846361/)
