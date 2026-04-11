@@ -2,7 +2,7 @@
 
 Nice to meet you! Welcome to my GitHub :)
 
-🔭 I’m currently a community college student at **Cerritos College** working toward my **B.S. in Computer Science & Engineering**.
+🔭 I’m currently a community college student at **Cerritos College** working toward my **A.S. in Computer Science & Engineering**.
 
 🚀 I was most recently a participant in the **NASA Community College Aerospace Scholars (NCAS)** program, where **my team won the final challenge**.
 
