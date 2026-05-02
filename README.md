@@ -6,7 +6,7 @@ Nice to meet you! Welcome to my GitHub :)
 
 🚀 I was most recently a participant in the **NASA Community College Aerospace Scholars (NCAS)** program, where **my team won the final challenge**.
 
-🌱 I enjoy building software projects, experimenting with hardware, and exploring **systems, and web technologies**.
+🌱 I enjoy building software projects, experimenting with hardware, and exploring **systems and web technologies**.
 
 📫 Reach me at: **johnnelsanhartono@gmail.com**
 
