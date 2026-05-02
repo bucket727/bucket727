@@ -1,4 +1,4 @@
-# Salutations! I'm Johnnelsan (john-nel-san) 👋
+# Salutations! I'm Johnnelsan (john-nel-san), but you can also just call me john! 👋
 
 Nice to meet you! Welcome to my GitHub :)
 
