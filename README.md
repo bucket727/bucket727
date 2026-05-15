@@ -6,7 +6,7 @@ Nice to meet you! Welcome to my GitHub :)
 
 🚀 I was most recently a participant in the **NASA Community College Aerospace Scholars (NCAS)** program, where **my team won the competition**.
 
-🌐 I’m currently developing [Meet2gether](https://meet2gether.net) with my friend @alton8, a collaborative scheduling webapp inspired by When2Meet, built with the **PERN stack** (**PostgreSQL, Express.js, React, and Node.js**) with a focus on modern UI/UX and real-time event coordination.
+🌐 I’m currently developing [Meet2gether](https://meet2gether.net) with my friend [@alton8](https://github.com/Alton8), a collaborative scheduling webapp inspired by When2Meet, built with the **PERN stack** (**PostgreSQL, Express.js, React, and Node.js**) with a focus on modern UI/UX and real-time event coordination.
 
 🌱 I enjoy building **projects**, experimenting with **hardware**.
 
